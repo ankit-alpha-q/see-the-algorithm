@@ -15,6 +15,7 @@ From the MahaDev YouTube channel's *See the Algorithm* Shorts.
 | 8 | Two rules, endless patterns | [live](https://ankit-alpha-q.github.io/see-the-algorithm/game-of-life/) | [game-of-life.js](./game-of-life/game-of-life.js) |
 | 9 | How route planners find your way without checking every street | [live](https://ankit-alpha-q.github.io/see-the-algorithm/astar/) | [astar.js](./astar/astar.js) |
 | 10 | Game of Life's most famous pattern | [live](https://ankit-alpha-q.github.io/see-the-algorithm/glider-gun/) | [glider-gun.js](./glider-gun/glider-gun.js) |
+| 11 | A Fourier series in plain JavaScript | [live](https://ankit-alpha-q.github.io/see-the-algorithm/fourier-heart/) | [fourier-heart.js](./fourier-heart/fourier-heart.js) |
 
 Every algorithm is a generator that `yield`s once per comparison, so each lane gets
 the same number of comparisons per frame: a fair race.
