@@ -18,6 +18,7 @@ From the MahaDev YouTube channel's *See the Algorithm* Shorts.
 | 11 | A Fourier series in plain JavaScript | [live](https://ankit-alpha-q.github.io/see-the-algorithm/fourier-heart/) | [fourier-heart.js](./fourier-heart/fourier-heart.js) |
 | 12 | A cellular automaton that builds dunes | [live](https://ankit-alpha-q.github.io/see-the-algorithm/falling-sand/) | [falling-sand.js](./falling-sand/falling-sand.js) |
 | 13 | Boids: flocking from three simple rules | [live](https://ankit-alpha-q.github.io/see-the-algorithm/boids/) | [boids.js](./boids/boids.js) |
+| 14 | An infinite fractal from z = z² + c | [live](https://ankit-alpha-q.github.io/see-the-algorithm/mandelbrot/) | [mandelbrot.js](./mandelbrot/mandelbrot.js) |
 
 Every algorithm is a generator that `yield`s once per comparison, so each lane gets
 the same number of comparisons per frame: a fair race.
