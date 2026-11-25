@@ -19,6 +19,7 @@ From the MahaDev YouTube channel's *See the Algorithm* Shorts.
 | 12 | A cellular automaton that builds dunes | [live](https://ankit-alpha-q.github.io/see-the-algorithm/falling-sand/) | [falling-sand.js](./falling-sand/falling-sand.js) |
 | 13 | Boids: flocking from three simple rules | [live](https://ankit-alpha-q.github.io/see-the-algorithm/boids/) | [boids.js](./boids/boids.js) |
 | 14 | An infinite fractal from z = z² + c | [live](https://ankit-alpha-q.github.io/see-the-algorithm/mandelbrot/) | [mandelbrot.js](./mandelbrot/mandelbrot.js) |
+| 15 | A snake game with a breadth-first-search brain | [live](https://ankit-alpha-q.github.io/see-the-algorithm/snake-ai/) | [snake-ai.js](./snake-ai/snake-ai.js) |
 
 Every algorithm is a generator that `yield`s once per comparison, so each lane gets
 the same number of comparisons per frame: a fair race.
